@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f8faf9;
+  --foreground: #091e16;
+  --emerald-primary: #059669;
+  --emerald-hover: #047857;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Architectural mint grid pattern matching Goatlabs reference */
+.architectural-grid {
+  background-image: 
+    linear-gradient(to right, rgba(16, 185, 129, 0.28) 1.5px, transparent 1.5px),
+    linear-gradient(to bottom, rgba(16, 185, 129, 0.28) 1.5px, transparent 1.5px);
+  background-size: 56px 56px;
+}
+
+/* Glass card styling with subtle border and crisp elevation */
+.glass-card {
+  background-color: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(6, 78, 59, 0.08);
+}
+
+/* Translucent hover enhancement that reacts to cursor presence */
+.hover-glow:hover {
+  background-color: #ffffff;
+  border-color: rgba(16, 185, 129, 0.45);
+  box-shadow: 0 16px 32px -8px rgba(16, 185, 129, 0.14);
+}

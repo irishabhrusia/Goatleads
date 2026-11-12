@@ -1,0 +1,12 @@
+name,company,email,phone,country,currency,amount,stage,lostReason
+Aarav Sharma,FinStack Technologies,aarav.sharma@finstack.in,+91-98201-44510,India,INR,1250000,New,
+Emily Carter,NorthStar Cloud Inc,emily.carter@northstarcloud.com,+1-415-890-2311,USA,USD,45000,Contacted,
+Oliver Bennett,Thames Analytics Ltd,oliver@thamesanalytics.co.uk,+44-20-7946-0912,UK,GBP,28000,Qualified,
+Liam Tremblay,MapleOps Solutions,liam.tremblay@mapleops.ca,+1-416-555-0184,Canada,CAD,32000,Proposal Sent,
+Fatima Al Mansoori,DesertGrid Systems,fatima@desertgrid.ae,+971-50-442-8891,UAE,AED,140000,Negotiation,
+Priya Nair,Kovai Logistics Pvt Ltd,priya.nair@kovailogistics.in,+91-98450-77219,India,INR,850000,In Contract Review,
+Marcus Vance,Apex Retail Group,m.vance@apexretail.com,+1-312-555-0147,USA,USD,68000,Closed Won,
+Sophia Wright,Britannia Health Tech,sophia@britanniahealth.co.uk,+44-20-7946-0432,UK,GBP,41500,Closed Won,
+Noah MacLeod,Aurora Mining Corp,nmacleod@auroramining.ca,+1-604-555-0192,Canada,CAD,54000,Closed Lost,Price too high / Budget constraints
+Zayed Al Nahyan,Oasis Ventures LLC,zayed@oasisventures.ae,+971-52-910-3345,UAE,AED,95000,Closed Lost,Competitor chosen
+

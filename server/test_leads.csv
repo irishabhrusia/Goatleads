@@ -1,0 +1,6 @@
+﻿name,company,email,phone,country,currency,amount,stage
+Raj Kumar,TechCorp India,raj@techcorp.in,9876543210,India,INR,500000,New
+Sarah Smith,Acme USA,sarah@acme.com,+1-555-0199,USA,USD,12000,Contacted
+David Lee,London Ventures,david@lv.co.uk,,UK,GBP,8000,Qualified
+Bad Row,,,,,Mars,0,New
+InvalidEmail,Corp,not-an-email,,Canada,CAD,5000,Proposal Sent
